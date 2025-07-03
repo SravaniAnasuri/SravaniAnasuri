@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Anasuri Sravani
 
-<!--
-**SravaniAnasuri/SravaniAnasuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate from Sri Padmavati Mahila Visvavidyalayam  
+💻 Passionate about software development, web technologies, and machine learning  
+🌱 Currently learning: Java, SQL, and MySQL  
+🔭 Projects: Phishing Detection System, Online Fee Payment System  
+📫 Reach me at: [LinkedIn](www.linkedin.com/in/sravanianasuri)
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Languages: Python, Java, JavaScript
+- Web: HTML, CSS, JS
+- Databases: SQL, MySQL
+- Tools: Jupyter Notebook, VS Code, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- [Phishing Detection System](https://github.com/anasurisravani/phishing-detection-system)
+- [Online Fee Payment System](https://github.com/anasurisravani/fee-payment-system)
+
+Let's build and grow together! ✨
+
