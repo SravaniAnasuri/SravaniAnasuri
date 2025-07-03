@@ -14,7 +14,7 @@
 
 ## 📂 Featured Projects
 - [Phishing Detection System](https://github.com/anasurisravani/phishing-detection-system)
-- [Online Fee Payment System](https://github.com/anasurisravani/fee-payment-system)
+- [Online Fee Payment System](https://github.com/SravaniAnasuri/online-fee-payment-system)
 
 Let's build and grow together! ✨
 
