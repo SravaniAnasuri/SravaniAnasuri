@@ -13,7 +13,7 @@
 - Tools: Jupyter Notebook, VS Code, Git
 
 ## 📂 Featured Projects
-- [Phishing Detection System](https://github.com/anasurisravani/phishing-detection-system)
+- [Phishing Detection System](https://github.com/SravaniAnasuri/PhishingDetectionSystem-using-HybridMachineLearning-based-onURL)
 - [Online Fee Payment System](https://github.com/SravaniAnasuri/online-fee-payment-system)
 
 Let's build and grow together! ✨
